@@ -1,6 +1,7 @@
 export const businessConfig = {
   // Identity
   name: "Palatino Ristorante",
+  category: "restaurant",
   tagline: "Cucina autentica, ingredienti freschi, momenti indimenticabili.",
   city: "Torino",
 
@@ -8,6 +9,7 @@ export const businessConfig = {
   address: "Largo IV Marzo, 9, 10122 Torino TO",
   phone: "+39 327 792 4038",
   email: "",
+  bookingUrl: "",
 
   // Online presence
   googleMapsUrl: "https://maps.google.com/?q=Largo%20IV%20Marzo%2C%209%2C%2010122%20Torino%20TO",
